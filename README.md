@@ -1,20 +1,34 @@
 #LLG?
 
-Get away with typing console when logging data
+Get away with typing console.log() when logging data
 
 # Installation
 
 `npm i llg --save`
 
-Then...
+Example...
 
 ```
-import { llg } from 'llg';
+var lg = require('llg').llg
 
-llg("your message")
+lg("your message")
+
+```
+
+Or 
+
+```
+import { llg } from 'llg'
+
+lg("your message")
+
 ```
 
 ## Options
 
-- dafault is null
+- dafault (param) is null
 - pass arrays, objects and more
+
+## Documentation?
+
+No need for that, just plug and play. Happy coding!!!
