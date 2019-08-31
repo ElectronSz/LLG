@@ -14,6 +14,12 @@ var lg = require('llg').llg
 lg("your message")
 
 ```
+Also you can pass more than one argument
+ 
+```
+lg("your message", {id: 1, name: "Lunga Ndaba"}, 90)
+
+```
 
 Or 
 
@@ -24,10 +30,17 @@ lg("your message")
 
 ```
 
-## Options
+Also you can pass more than one argument
+ 
+```
+lg("your message", {id: 1, name: "Lolo Kunene"}, 90)
 
-- dafault (param) is null
-- pass arrays, objects and more
+```
+
+## Parameter Options
+
+- It can be null parameters
+- pass different data types e.g strings, arrays, objects and more
 
 ## Documentation?
 
