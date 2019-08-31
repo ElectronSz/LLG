@@ -5,7 +5,11 @@ function llg() {
         
     }
     else if(arguments.length == 1){
-        console.log("🤑  "+arguments[0]);
+         for (let index = 0; index < arguments.length; index++) {
+            const element = arguments[index];
+            console.log("🤑  "+element);
+            
+        }
     }
     else {
         let elements = []
@@ -19,5 +23,6 @@ function llg() {
         console.log(elements.join(" ➡️  "))
     }
 }
+
 
 module.exports.llg = llg;
