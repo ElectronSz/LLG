@@ -29,14 +29,14 @@ Example...
 ```
 import { llg } from 'llg'
 
-lg("your message")
+llg("your message")
 
 ```
 
 Also you can pass more than one argument
  
 ```
-lg("your message", {id: 1, name: "Lolo Kunene"}, 90)
+llg("your message", {id: 1, name: "Lolo Kunene"}, 90)
 
 ```
 
