@@ -1,4 +1,4 @@
-# LLG?
+# LLG
 
 Get away with typing console.log() when logging data
 
@@ -22,6 +22,8 @@ lg("your message", {id: 1, name: "Lunga Ndaba"}, 90)
 ```
 
 Or 
+
+Example...
 
 ```
 import { llg } from 'llg'
