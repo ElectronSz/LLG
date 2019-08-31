@@ -4,7 +4,8 @@ Get away with typing console.log() when logging data
 
 # Installation
 
-`npm i llg --save`
+`npm i llg --save` or `yarn add llg`
+
 
 Example...
 
