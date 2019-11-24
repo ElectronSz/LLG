@@ -50,7 +50,8 @@ llg("your message", {id: 1, name: "Lolo Kunene"}, 90)
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API/badge.svg?style=beer-square)](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API)  [![Beerpay](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API/make-wish.svg?style=flat-square)](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API?focus=wish)
+[![Beerpay](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API/badge.svg?style=beer-square)](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API)  [![Beerpay](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API/make-wish.svg?style=flat-square)](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API?focus=wish)   [mergify]: https://mergify.io
+[mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/<owner>/<repo>&style=flat
 
 ## Documentation?
 
