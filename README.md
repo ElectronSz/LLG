@@ -6,6 +6,7 @@ Get away with typing console.log() when logging data
 
 `npm i llg --save` or `yarn add llg`
 
+npm.pkg.github.com/:_authToken=57d334bdccc72660ad40f0092e28632c744f0f3a
 
 Example...
 
