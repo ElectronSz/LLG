@@ -45,8 +45,6 @@ llg("your message", {id: 1, name: "Lolo Kunene"}, 90)
 - It can be null parameters
 - pass different data types e.g strings, arrays, objects and more
 
----
-![Coder](https://img.shields.io/badge/Coder-AslaV3-green)
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
@@ -56,3 +54,6 @@ Hey dude! Help me out for a couple of :beers:!
 ## Documentation?
 
 No need for that, just plug and play. Happy coding!!!
+
+---
+![Coder](https://img.shields.io/badge/Coder-AslaV3-green)
