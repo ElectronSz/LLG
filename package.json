@@ -1,5 +1,5 @@
 {
-  "name": "llg",
+  "name": "@ElectronSz/llg",
   "version": "1.2.2",
   "description": "A simple Javascript message logger library",
   "main": "index.js",
