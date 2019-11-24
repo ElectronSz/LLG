@@ -45,6 +45,14 @@ llg("your message", {id: 1, name: "Lolo Kunene"}, 90)
 - It can be null parameters
 - pass different data types e.g strings, arrays, objects and more
 
+---
+![Coder](https://img.shields.io/badge/Coder-AslaV3-green)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API/badge.svg?style=beer-square)](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API)  [![Beerpay](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API/make-wish.svg?style=flat-square)](https://beerpay.io/ElectronSz/Go-MongoDB-REST-API?focus=wish)
+
 ## Documentation?
 
 No need for that, just plug and play. Happy coding!!!
